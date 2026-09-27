@@ -1,0 +1,3 @@
+Goodbye!
+This file is on the new branch.
+I am practicing Git branching.
